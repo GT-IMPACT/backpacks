@@ -1,0 +1,10 @@
+# folder
+/.gradle/
+/eclipse/
+/out/
+
+# project files
+*.iml
+*.ipr
+*.iws
+.idea
